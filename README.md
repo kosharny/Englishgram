@@ -18,8 +18,6 @@
 
 **Video:** [▶ Watch the demo on YouTube](https://youtu.be/wd2aoqUtGsM)
 
-The suggested video title and description are in [YOUTUBE_DESCRIPTION.md](YOUTUBE_DESCRIPTION.md).
-
 ## Overview
 
 Englishgram is a personal iOS project for learners who want a structured way to study English grammar and build a small everyday vocabulary without an account or internet connection.
