@@ -16,7 +16,7 @@
 
 ## Demo
 
-**Video:** `https://youtu.be/wd2aoqUtGsM`
+**Video:** [▶ Watch the demo on YouTube](https://youtu.be/wd2aoqUtGsM)
 
 The suggested video title and description are in [YOUTUBE_DESCRIPTION.md](YOUTUBE_DESCRIPTION.md).
 
